@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,git,github&theme=dark&perline=6" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,vscode,git,github&theme=dark&perline=6" alt="Tech Stack Icons"/>
 
 <br/><br/>
 
@@ -104,60 +104,7 @@
 
 ---
 
-# 📂 Repository Structure
 
-```text
-Deep-Learning/
-│
-├── 01_Introduction/
-├── 02_Why_Deep_Learning/
-├── 03_Perceptron/
-├── 04_ANN/
-├── 05_Backpropagation/
-├── 06_Chain_Rule/
-├── 07_Vanishing_Gradient/
-│
-├── Activation_Functions/
-│   ├── 08_Sigmoid/
-│   ├── 09_Tanh/
-│   ├── 10_ReLU/
-│   ├── 11_Leaky_ReLU_Parametric/
-│   ├── 12_ELU/
-│   └── 13_Softmax/
-│
-├── Loss_Functions/
-│   ├── 14_Loss_vs_Cost/
-│   ├── 15_Regression_Loss/
-│   └── 16_Classification_Loss/
-│
-├── Optimizers/
-│   ├── 17_Gradient_Descent/
-│   ├── 18_SGD/
-│   ├── 19_Mini_Batch_SGD/
-│   ├── 20_SGD_Momentum/
-│   ├── 21_Adagrad/
-│   ├── 22_RMSProp/
-│   └── 23_Adam/
-│
-├── Regularization/
-│   ├── 24_Exploding_Gradient/
-│   ├── 25_Weight_Initialisation/
-│   └── 26_Dropout/
-│
-├── CNN/
-│   ├── 27_CNN_Introduction/
-│   ├── 28_Human_Brain_vs_CNN/
-│   ├── 29_Images_in_Deep_Learning/
-│   ├── 30_Convolution_Operation/
-│   ├── 31_Padding/
-│   ├── 32_CNN_vs_ANN/
-│   ├── 33_Pooling_Layers/
-│   └── 34_Flattening_FC_Layers/
-│
-└── README.md
-```
-
----
 
 # 🗺️ Learning Roadmap
 
